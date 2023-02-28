@@ -1,0 +1,17 @@
+check program with input 15 29835 34625 -10366 28396 52664 16761 -36991 47749 9224 -8152 51843 32303 38282 55492 16103
+
+NOTE: Don't worry about the odd formatting in the tests.
+This is a byproduct of the automated tests not actually
+requiring input via the keyboard. Normally, the text we
+type would appear in termal. You can run the same command
+found in the .run files and you will see exactly what the
+testing program will receive as output.
+
+EXAMPLE:
+Enter the size of the array: 15
+Enter the values of the array: 29835 34625 -10366 28396 52664 16761 -36991 47749 9224 -8152 51843 32303 38282 55492 16103
+Max: 55492
+Min: -36991
+Range: 92483
+Sum: 357768
+Average: 23851.200000
